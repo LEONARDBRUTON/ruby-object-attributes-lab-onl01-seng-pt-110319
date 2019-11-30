@@ -15,12 +15,12 @@ def name
 end
 
 
- def breed=(dogs_breed)
-   @dogs_breed = breed
+ def breed=(breed)
+   @breed = breed
  end
  
  def breed
-   @dogs_breed
+   @breed
  end
   
   
