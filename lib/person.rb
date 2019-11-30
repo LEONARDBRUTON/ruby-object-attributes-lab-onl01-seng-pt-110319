@@ -7,6 +7,7 @@
 
 
 class Person
+  def name=(Person)
   
   
   
