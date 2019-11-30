@@ -6,7 +6,7 @@
 
 class Dog
   
- def name 
+ def ini
   
   
   
