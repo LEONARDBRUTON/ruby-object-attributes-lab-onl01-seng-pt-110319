@@ -23,15 +23,6 @@ end
    @breed
  end
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
 end
 
 
