@@ -6,7 +6,8 @@
 
 class Dog
   
- def ini
+ def initialize(name)
+   @name
   
   
   
